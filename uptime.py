@@ -1,0 +1,3 @@
+echo UPTIME
+uptime
+echo
